@@ -1,4 +1,4 @@
 const cloneArray = (array) => {
-    return [...array]
+    return [...array] // spread operator 
 }
 module.exports = cloneArray

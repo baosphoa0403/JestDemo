@@ -51,3 +51,16 @@ npm test ./Test/testAsyncCode.test.js
 //     console.log(result);
 
 // })
+
+{
+    user: {
+        age: 20,
+        userType: "user",
+        _id: "60bc64d1601d170017c32646",
+        name: "khoa",
+        email: "khoa1234@gmail.com",
+        productsFavorite: []
+    },
+    token: "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI2MGJjNjRkMTYwMWQxNzAwMTdjMzI2NDYiLCJpYXQiOjE2MjI5NTkzNzUsImV4cCI6MTYyNTYzNzc3NX0.OwwQvgxRJ9f-jHPG95kz8r1MA6c2L1eEp6z0BkSt9qI",
+    messager: "login success"
+}
